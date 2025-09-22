@@ -35,8 +35,7 @@
               "title": "Operadores de búsqueda (comodín)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +183,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "c3f7096c4a9bc8bc",
+  "active": "276dd45e7c2dcb99",
   "lastOpenFiles": [
+    "Operadores de búsqueda (comodín).md",
     "Comando ls.md",
-    "Comando mkdir.md",
-    "Operadores de búsqueda (comodín).md"
+    "Comando mkdir.md"
   ]
 }
