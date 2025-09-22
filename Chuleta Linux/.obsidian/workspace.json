@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "b8dac50fcb6d0ba3",
+    "type": "split",
+    "children": [
+      {
+        "id": "77c532d826d8d189",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "276dd45e7c2dcb99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comando mkdir.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comando mkdir"
+            }
+          },
+          {
+            "id": "c3f7096c4a9bc8bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operadores de búsqueda (comodín).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Operadores de búsqueda (comodín)"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "020500ec51e7b6ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5559cf36f8cc852",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a0798b67797697a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "b667f6bf69223bd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "92c3482b082643c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1bb34aa72c4afec8",
+    "type": "split",
+    "children": [
+      {
+        "id": "57ecf8d201cf7590",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e692ae6bca20440",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Operadores de búsqueda (comodín).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Operadores de búsqueda (comodín)"
+            }
+          },
+          {
+            "id": "a6a61eb5a2126203",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Operadores de búsqueda (comodín).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Operadores de búsqueda (comodín)"
+            }
+          },
+          {
+            "id": "525430d4981279b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "fe03e480a1a5d339",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Operadores de búsqueda (comodín).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Operadores de búsqueda (comodín)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "c3f7096c4a9bc8bc",
+  "lastOpenFiles": [
+    "Comando ls.md",
+    "Comando mkdir.md",
+    "Operadores de búsqueda (comodín).md"
+  ]
+}
