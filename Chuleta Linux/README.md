@@ -1,2 +1,2 @@
 # Inicio
-[Comando ls](Comando ls.md)
+[Comando ls](<Comando ls.md>)
