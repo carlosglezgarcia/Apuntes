@@ -1,6 +1,7 @@
 > `ls` $=>$ lista el contenido de un directorio
 
 - Notación del comando:
+
 > `ls [OPCIÓN]... [ARCHIVO]...`
 
 - Opciones del comando:
