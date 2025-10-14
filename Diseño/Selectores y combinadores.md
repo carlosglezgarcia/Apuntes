@@ -90,6 +90,53 @@ Ejemplo:
 }
 ```
 
+- Subdivisiones
+```css
+/* Elementos <a> con un atributo title */
+a[title] {
+	color: purple;
+}
+/* Elementos <a> con un href que coincida con "https://example.org" */
+a[href="https://example.org"]
+{
+  color: green;
+}
+/* Elementos <a> con un href que contenga "example" */
+a[href*="example"] {
+  font-size: 2em;
+}
+/* Elementos <a> con un href que comience con "#" */
+a[href^="#"] {
+  color: #001978;
+}
+/* Elementos <a> con un href que termine en ".org" */
+a[href$=".org"] {
+  font-style: italic;
+}
+/* Elementos <a> cuyo atributo class contenga la palabra "logo" */
+a[class~="logo"] {
+  padding: 2px;
+}
+```
+
+`[attr]` $=>$ Selecciona los elementos que tienen el atributo _attr_.
+
+`[attr=value]` $=>$ Selecciona los elementos cuyo atributo _attr_ tenga exactamente el valor _value_.
+
+`[attr~=value]` $=>$ Selecciona los elementos cuyo atributo _attr_ tenga por valor una lista de palabras separdas por espacios, una de las cuales sea _value_.
+
+`[attr|=value]` $=>$ Selecciona los elementos cuyo atributo _attr_ tenga exactamente el valor _value_ o empiece por _value_ seguido de un guión `-`. Se puede usar para coincidencias de subcódigos en otros idiomas.
+
+`[attr^=value]` $=>$ Selecciona los elementos cuyo atributo _attr_ tenga un valor prefijado por _value_.
+
+`[attr$=value]` $=>$ Selecciona los elementos con atributo _attr_ cuyo valor tiene el sufijo (seguido) de _value_.
+
+`[attr*=value]` $=>$ Selecciona los elementos cuyo atributo _attr_ tenga un valor que contenga _value_.
+
+`[attr operator value i]` $=>$ Agregar una `i` (o `I`) antes del corchete de cierre hace que el valor sea comparado sin distinguir entre mayúsculas y minúsculas (para caracteres dentro del rango ASCII).
+
+`[attr operator value s]` $=>$ Agregar una `s` (o `S`) antes del corchete de cierre hace que el valor sea comparado distinguiendo entre mayúsculas y minúsculas (para caracteres dentro del rango ASCII).
+
 ## Combinadores
 
 [Combinador de hermanos adyacentes](https://developer.mozilla.org/es/docs/Web/CSS/Next-sibling_combinator)
