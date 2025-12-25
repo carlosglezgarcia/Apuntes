@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bd53a4f97006dd47",
+        "id": "c55e0abb36468499",
         "type": "tabs",
         "children": [
           {
-            "id": "ae2e10a2e7de5015",
+            "id": "9a5234ffce46d83a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servidor/Plataformas de programación web en entorno servidor/1.1 Páginas web estáticas y dinámicas (I).md",
+                "file": "Servidor/Plataformas de programación web en entorno servidor/2. Tecnologías para programación web del lado del servidor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 Páginas web estáticas y dinámicas (I)"
+              "title": "2. Tecnologías para programación web del lado del servidor"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 244.5,
     "collapsed": true
   },
   "right": {
@@ -143,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Servidor/Plataformas de programación web en entorno servidor/1.1.2 Aplicaciones web.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de 1.1.2 Aplicaciones web"
             }
           },
           {
@@ -180,18 +181,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae2e10a2e7de5015",
+  "active": "9a5234ffce46d83a",
   "lastOpenFiles": [
+    "Servidor/Plataformas de programación web en entorno servidor/2. Tecnologías para programación web del lado del servidor.md",
+    "Servidor/Plataformas de programación web en entorno servidor/1.2. Ejecución de código en el servidor y en el cliente.md",
+    "Servidor/Plataformas de programación web en entorno servidor/1.1.2. Aplicaciones web.md",
+    "Pasted image 20251220014416.png",
+    "Servidor/Plataformas de programación web en entorno servidor/1.1. Páginas web estáticas y dinámicas.md",
+    "Servidor/Plataformas de programación web en entorno servidor/1. Características de la programación web.md",
+    "Servidor/Pasted image 20251219022006.png",
+    "Servidor/Plataformas de programación web en entorno servidor/Pasted image 20251219185140.png",
+    "Servidor/Pasted image 20251219182940.png",
+    "Servidor/Pasted image 20251219185140.png",
+    "Servidor/image.png",
+    "Servidor/Plataformas de programación web en entorno servidor/1.1.1. Páginas web estáticas y dinámicas (II).md",
     "Despliegue/Comando cp.md",
+    "Servidor/Pasted image 20251219182940.png",
+    "Servidor/Plataformas de programación web en entorno servidor/1.1 Páginas web estáticas y dinámicas (I).md",
     "Chuleta Linux/Comando cp.md",
     "Chuleta Linux/Comando ls.md",
     "Despliegue/Comando mkdir.md",
     "Chuleta Linux/Comando mkdir.md",
     "Chuleta Linux/Operadores de búsqueda (comodín).md",
     "Despliegue/Operadores de búsqueda (comodín).md",
-    "Servidor/Plataformas de programación web en entorno servidor/1.1 Páginas web estáticas y dinámicas (I).md",
-    "Servidor/Plataformas de programación web en entorno servidor/1. Características de la programación web.md",
-    "Servidor/Pasted image 20251219022006.png",
     "Servidor/Sin título.md",
     "Servidor/Plataformas de programación web en entorno servidor",
     "Chuleta Linux/README.md",
